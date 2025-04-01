@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=CrudEstudiantes/C:\/Users\/samy_\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/3.3.3\/spring-data-jpa-3.3.3.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/3.3.3=/=/maven.scope=/compile=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1724644524605"/>
+    <typeInfo handle="=CrudEstudiantes/C:\/Users\/samy_\/.m2\/repository\/org\/hibernate\/orm\/hibernate-core\/6.5.2.Final\/hibernate-core-6.5.2.Final.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate.orm=/=/maven.artifactId=/hibernate-core=/=/maven.version=/6.5.2.Final=/=/maven.scope=/compile=/&lt;org.hibernate.query.criteria(JpaQueryGroup.class[JpaQueryGroup" modifiers="1537" timestamp="1724644542151"/>
+</typeInfoHistroy>
