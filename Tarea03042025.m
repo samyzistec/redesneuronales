@@ -14,7 +14,6 @@ epocas = 1000;
 alpha = 0.2;
 num_ejecuciones = 100;
 
-% Matriz para almacenar errores de todas las ejecuciones
 errores_todas = zeros(num_ejecuciones, epocas);
 
 % Bucle de 100 ejecuciones
